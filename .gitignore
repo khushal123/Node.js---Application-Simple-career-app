@@ -1,0 +1,12 @@
+node_modules/
+express
+express.cmd
+express.ps1
+mime
+mime.cmdmime.ps1
+sequelize
+sequelize-cli
+sequelize-cli.cmd
+sequelize-cli.ps1
+sequelize.cmd
+sequelize.ps1
